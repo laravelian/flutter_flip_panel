@@ -291,7 +291,7 @@ class FlipClock extends StatelessWidget {
       ]);
     }
     return Padding(
-      padding: const EdgeInsets.only(top: 180.0),
+      padding: const EdgeInsets.only(top: 0.0),
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: digitList
